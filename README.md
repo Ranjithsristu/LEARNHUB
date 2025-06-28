@@ -1,5 +1,6 @@
 # LEARNHUB
 LearnHub is a modern, cloud-enabled e-learning platform designed to enhance digital education by providing a centralized space for students, instructors, and administrators. It offers features such as course enrollment, video lectures, assignments, quizzes, progress tracking, and user management.
+<<<<<<< HEAD
 
 # Online Learning Platform
 
@@ -59,3 +60,5 @@ Follow the steps below to run the project on your local machine.
 Node.js (v14 or above)
 MongoDB (local or Atlas cloud)
 Git
+=======
+>>>>>>> 73b2e7f8338eea5256f933d2207a6f7c06b8fecd
